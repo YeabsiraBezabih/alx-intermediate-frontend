@@ -1,0 +1,97 @@
+### **Quick Guide: Install Sass on Windows**  
+
+1. **Install Node.js**  
+   - Download from [nodejs.org](https://nodejs.org/) (LTS version)  
+   - Verify in CMD:  
+     ```sh
+     node -v
+     npm -v
+     ```
+
+2. **Install Sass**  
+   Run in CMD:  
+   ```sh
+   ### **Quick Guide: Install Sass on Windows**  
+
+1. **Install Node.js**  
+   - Download from [nodejs.org](https://nodejs.org/) (LTS version)  
+   - Verify in CMD:  
+     ```sh
+     node -v
+     npm -v
+     ```
+
+2. **Install Sass**  
+   Run in CMD:  
+   ```sh
+   ### **Quick Guide: Install Sass on Windows**  
+
+1. **Install Node.js**  
+   - Download from [nodejs.org](https://nodejs.org/) (LTS version)  
+   - Verify in CMD:  
+     ```sh
+     node -v
+     npm -v
+     ```
+
+2. **Install Sass**  
+   Run in CMD:  
+   ```sh
+   npm install sass -v 3.7.4
+   ```
+   Verify:  
+   ```sh
+   sass --version
+   ```
+
+3. **Use Sass**  
+   - Compile:  
+     ```sh
+     sass input.scss output.css
+     ```
+   - Auto-compile:  
+     ```sh
+     sass --watch input.scss:output.css
+     ```
+
+**Done!** Start writing `.scss` files. 🚀  
+
+#Sass #WebDev
+   ```
+   Verify:  
+   ```sh
+   sass --version
+   ```
+
+3. **Use Sass**  
+   - Compile:  
+     ```sh
+     sass input.scss output.css
+     ```
+   - Auto-compile:  
+     ```sh
+     sass --watch input.scss:output.css
+     ```
+
+**Done!** Start writing `.scss` files. 🚀  
+
+#Sass #WebDev
+   ```
+   Verify:  
+   ```sh
+   sass --version
+   ```
+
+3. **Use Sass**  
+   - Compile:  
+     ```sh
+     sass input.scss output.css
+     ```
+   - Auto-compile:  
+     ```sh
+     sass --watch input.scss:output.css
+     ```
+
+**Done!** Start writing `.scss` files. 🚀  
+
+#Sass #WebDev
